@@ -1,0 +1,10 @@
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\bin\Debug\netcoreapp3.1\SMTRPZ-3.exe
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\obj\Debug\netcoreapp3.1\SMTRPZ-3.csprojAssemblyReference.cache
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\obj\Debug\netcoreapp3.1\SMTRPZ-3.AssemblyInfoInputs.cache
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\obj\Debug\netcoreapp3.1\SMTRPZ-3.AssemblyInfo.cs
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\obj\Debug\netcoreapp3.1\SMTRPZ-3.RazorTargetAssemblyInfo.cache
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\obj\Debug\netcoreapp3.1\staticwebassets\SMTRPZ-3.StaticWebAssets.Manifest.cache
+D:\Mega\KPI\6 семестр\СМТРПЗ-3\Final Test\SMTRPZ-3\SMTRPZ-3\obj\Debug\netcoreapp3.1\staticwebassets\SMTRPZ-3.StaticWebAssets.xml
