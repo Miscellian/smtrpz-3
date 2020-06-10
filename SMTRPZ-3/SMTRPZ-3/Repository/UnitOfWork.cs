@@ -45,7 +45,6 @@ namespace SMTRPZ_3.Repository
             }
         }
 
-
         public void Save()
         {
             _dbContext.SaveChanges();
